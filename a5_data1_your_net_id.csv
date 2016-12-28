@@ -1,0 +1,429 @@
+,manufacturer,name,type,retail_price,dealer_cost,mpg_city,mpg_hwy
+0,Acura,Acura 3.5 RL 4dr,Small/Sporty/ Compact/Large Sedan,43755,39014,18,24
+1,Acura,Acura 3.5 RL w/Navigation 4dr,Small/Sporty/ Compact/Large Sedan,46100,41100,18,24
+2,Acura,Acura MDX,SUV,36945,33337,17,23
+3,Acura,Acura NSX coupe 2dr manual S,Sports Car,89765,79978,17,24
+4,Acura,Acura RSX Type S 2dr,Small/Sporty/ Compact/Large Sedan,23820,21761,24,31
+5,Acura,Acura TL 4dr,Small/Sporty/ Compact/Large Sedan,33195,30299,20,28
+6,Acura,Acura TSX 4dr,Small/Sporty/ Compact/Large Sedan,26990,24647,22,29
+7,Audi,Audi A4 1.8T 4dr,Small/Sporty/ Compact/Large Sedan,25940,23508,22,31
+8,Audi,Audi A4 3.0 4dr,Small/Sporty/ Compact/Large Sedan,31840,28846,20,28
+9,Audi,Audi A4 3.0 convertible 2dr,Small/Sporty/ Compact/Large Sedan,42490,38325,20,27
+10,Audi,Audi A4 3.0 Quattro 4dr auto,Small/Sporty/ Compact/Large Sedan,34480,31388,18,25
+11,Audi,Audi A4 3.0 Quattro 4dr manual,Small/Sporty/ Compact/Large Sedan,33430,30366,17,26
+12,Audi,Audi A4 3.0 Quattro convertible 2dr,Small/Sporty/ Compact/Large Sedan,44240,40075,18,25
+13,Audi,Audi A41.8T convertible 2dr,Small/Sporty/ Compact/Large Sedan,35940,32506,23,30
+14,Audi,Audi A6 2.7 Turbo Quattro 4dr,Small/Sporty/ Compact/Large Sedan,42840,38840,18,25
+15,Audi,Audi A6 3.0 4dr,Small/Sporty/ Compact/Large Sedan,36640,33129,20,27
+16,Audi,Audi A6 3.0 Avant Quattro,Wagon,40840,37060,18,25
+17,Audi,Audi A6 3.0 Quattro 4dr,Small/Sporty/ Compact/Large Sedan,39640,35992,18,25
+18,Audi,Audi A6 4.2 Quattro 4dr,Small/Sporty/ Compact/Large Sedan,49690,44936,17,24
+19,Audi,Audi A8 L Quattro 4dr,Small/Sporty/ Compact/Large Sedan,69190,64740,17,24
+20,Audi,Audi RS 6 4dr,Sports Car,84600,76417,15,22
+21,Audi,Audi S4 Avant Quattro,Wagon,49090,44446,15,21
+22,Audi,Audi S4 Quattro 4dr,Small/Sporty/ Compact/Large Sedan,48040,43556,14,20
+23,Audi,Audi TT 1.8 convertible 2dr (coupe),Sports Car,35940,32512,20,28
+24,Audi,Audi TT 1.8 Quattro 2dr (convertible),Sports Car,37390,33891,20,28
+25,Audi,Audi TT 3.2 coupe 2dr (convertible),Sports Car,40590,36739,21,29
+26,BMW,BMW 325Ci 2dr,Small/Sporty/ Compact/Large Sedan,30795,28245,20,29
+27,BMW,BMW 325Ci convertible 2dr,Small/Sporty/ Compact/Large Sedan,37995,34800,19,27
+28,BMW,BMW 325i 4dr,Small/Sporty/ Compact/Large Sedan,28495,26155,20,29
+29,BMW,BMW 325xi 4dr,Small/Sporty/ Compact/Large Sedan,30245,27745,19,27
+30,BMW,BMW 325xi Sport,Wagon,32845,30110,19,26
+31,BMW,BMW 330Ci 2dr,Small/Sporty/ Compact/Large Sedan,36995,33890,20,30
+32,BMW,BMW 330Ci convertible 2dr,Small/Sporty/ Compact/Large Sedan,44295,40530,19,28
+33,BMW,BMW 330i 4dr,Small/Sporty/ Compact/Large Sedan,35495,32525,20,30
+34,BMW,BMW 330xi 4dr,Small/Sporty/ Compact/Large Sedan,37245,34115,20,29
+35,BMW,BMW 525i 4dr,Small/Sporty/ Compact/Large Sedan,39995,36620,19,28
+36,BMW,BMW 530i 4dr,Small/Sporty/ Compact/Large Sedan,44995,41170,20,30
+37,BMW,BMW 545iA 4dr,Small/Sporty/ Compact/Large Sedan,54995,50270,18,26
+38,BMW,BMW 745i 4dr,Small/Sporty/ Compact/Large Sedan,69195,63190,18,26
+39,BMW,BMW 745Li 4dr,Small/Sporty/ Compact/Large Sedan,73195,66830,18,26
+40,BMW,BMW M3 convertible 2dr,Sports Car,56595,51815,16,23
+41,BMW,BMW M3 coupe 2dr,Sports Car,48195,44170,16,24
+42,BMW,BMW X3 3.0i,SUV,37000,33873,16,23
+43,BMW,BMW X5 4.4i,SUV,52195,47720,16,22
+44,BMW,BMW Z4 convertible 2.5i 2dr,Sports Car,33895,31065,20,28
+45,BMW,BMW Z4 convertible 3.0i 2dr,Sports Car,41045,37575,21,29
+46,Buick,Buick Century Custom 4dr,Small/Sporty/ Compact/Large Sedan,22180,20351,20,30
+47,Buick,Buick LeSabre Custom 4dr,Small/Sporty/ Compact/Large Sedan,26470,24282,20,29
+48,Buick,Buick LeSabre Limited 4dr,Small/Sporty/ Compact/Large Sedan,32245,29566,20,29
+49,Buick,Buick Park Avenue 4dr,Small/Sporty/ Compact/Large Sedan,35545,32244,20,29
+50,Buick,Buick Park Avenue Ultra 4dr,Small/Sporty/ Compact/Large Sedan,40720,36927,18,28
+51,Buick,Buick Rainier,SUV,37895,34357,15,21
+52,Buick,Buick Regal GS 4dr,Small/Sporty/ Compact/Large Sedan,28345,26047,18,28
+53,Buick,Buick Regal LS 4dr,Small/Sporty/ Compact/Large Sedan,24895,22835,20,30
+54,Buick,Buick Rendezvous CX,SUV,26545,24085,19,26
+55,Cadillac,Cadillac CTS VVT 4dr,Small/Sporty/ Compact/Large Sedan,30835,28575,18,25
+56,Cadillac,Cadillac Deville 4dr,Small/Sporty/ Compact/Large Sedan,45445,41650,18,26
+57,Cadillac,Cadillac Deville DTS 4dr,Small/Sporty/ Compact/Large Sedan,50595,46362,18,26
+58,Cadillac,Cadillac Escalade EXT,Pickup,52975,48541,13,17
+59,Cadillac,Cadillac Escaladet,SUV,52795,48377,14,18
+60,Cadillac,Cadillac Seville SLS 4dr,Small/Sporty/ Compact/Large Sedan,47955,43841,18,26
+61,Cadillac,Cadillac SRX V8,SUV,46995,43523,16,21
+62,Cadillac,Cadillac XLR convertible 2dr,Sports Car,76200,70546,17,25
+63,Chevrolet,Chevrolet Astro,Minivan,26395,23954,14,17
+64,Chevrolet,Chevrolet Avalanche 1500,Pickup,36100,31689,14,18
+65,Chevrolet,Chevrolet Aveo 4dr,Small/Sporty/ Compact/Large Sedan,11690,10965,28,34
+66,Chevrolet,Chevrolet Aveo LS 4dr hatch,Small/Sporty/ Compact/Large Sedan,12585,11802,28,34
+67,Chevrolet,Chevrolet Cavalier 2dr,Small/Sporty/ Compact/Large Sedan,14610,13697,26,37
+68,Chevrolet,Chevrolet Cavalier 4dr,Small/Sporty/ Compact/Large Sedan,14810,13884,26,37
+69,Chevrolet,Chevrolet Cavalier LS 2dr,Small/Sporty/ Compact/Large Sedan,16385,15357,26,37
+70,Chevrolet,Chevrolet Colorado Z85,Pickup,18760,17070,18,23
+71,Chevrolet,Chevrolet Corvette 2dr,Sports Car,44535,39068,18,25
+72,Chevrolet,Chevrolet Corvette convertible 2dr,Sports Car,51535,45193,18,25
+73,Chevrolet,Chevrolet Impala 4dr,Small/Sporty/ Compact/Large Sedan,21900,20095,21,32
+74,Chevrolet,Chevrolet Impala LS 4dr,Small/Sporty/ Compact/Large Sedan,25000,22931,20,30
+75,Chevrolet,Chevrolet Impala SS 4dr,Small/Sporty/ Compact/Large Sedan,27995,25672,18,28
+76,Chevrolet,Chevrolet Malibu 4dr,Small/Sporty/ Compact/Large Sedan,18995,17434,24,34
+77,Chevrolet,Chevrolet Malibu LS 4dr,Small/Sporty/ Compact/Large Sedan,20370,18639,22,30
+78,Chevrolet,Chevrolet Malibu LT 4dr,Small/Sporty/ Compact/Large Sedan,23495,21551,23,32
+79,Chevrolet,Chevrolet Malibu Maxx LS,Wagon,22225,20394,22,30
+80,Chevrolet,Chevrolet Monte Carlo LS 2dr,Small/Sporty/ Compact/Large Sedan,21825,20026,21,32
+81,Chevrolet,Chevrolet Monte Carlo SS 2dr,Small/Sporty/ Compact/Large Sedan,24225,22222,18,28
+82,Chevrolet,Chevrolet Silverado 1500 Regular Cab,Pickup,20310,18480,15,21
+83,Chevrolet,Chevrolet Silverado SS,Pickup,40340,35399,13,17
+84,Chevrolet,Chevrolet SSR,Pickup,41995,39306,16,19
+85,Chevrolet,Chevrolet Suburban 1500 LT,SUV,42735,37422,14,18
+86,Chevrolet,Chevrolet Tahoe LT,SUV,41465,36287,14,18
+87,Chevrolet,Chevrolet Tracker,SUV,20255,19108,19,22
+88,Chevrolet,Chevrolet TrailBlazer LT,SUV,30295,27479,16,21
+89,Chevrolet,Chevrolet Venture LS,Minivan,27020,24518,19,26
+90,Chrvsler,Chrvsler PT Cruiser GT 4dr,Small/Sporty/ Compact/Large Sedan,25955,24172,21,27
+91,Chrysler,Chrysler 300M 4dr,Small/Sporty/ Compact/Large Sedan,29865,27797,18,27
+92,Chrysler,Chrysler 300M Special Edition 4dr,Small/Sporty/ Compact/Large Sedan,33295,30884,18,27
+93,Chrysler,Chrysler Concorde LX 4dr,Small/Sporty/ Compact/Large Sedan,24130,22452,21,29
+94,Chrysler,Chrysler Concorde LXi 4dr,Small/Sporty/ Compact/Large Sedan,26860,24909,19,27
+95,Chrysler,Chrysler Crossfire 2dr,Sports Car,34495,32033,17,25
+96,Chrysler,Chrysler Pacifica,Wagon,31230,28725,17,23
+97,Chrysler,Chrysler PT Cruiser 4dr,Small/Sporty/ Compact/Large Sedan,17985,16919,22,29
+98,Chrysler,Chrysler PT Cruiser Limited 4dr,Small/Sporty/ Compact/Large Sedan,22000,20573,22,29
+99,Chrysler,Chrysler Sebring 4dr,Small/Sporty/ Compact/Large Sedan,19090,17805,22,30
+100,Chrysler,Chrysler Sebring convertible 2dr,Small/Sporty/ Compact/Large Sedan,25215,23451,22,30
+101,Chrysler,Chrysler Sebring Limited convertible 2dr,Small/Sporty/ Compact/Large Sedan,30950,28613,21,28
+102,Chrysler,Chrysler Sebring Touring 4dr,Small/Sporty/ Compact/Large Sedan,21840,20284,21,28
+103,Chrysler,Chrysler Town and Country Limited,Minivan,38380,35063,18,25
+104,Chrysler,Chrysler Town and Country LX,Minivan,27490,25371,19,26
+105,CMC,CMC Yukon 1500 SLE,SUV,35725,31361,16,19
+106,Dodge,Dodge Caravan SE,Minivan,21795,20508,20,26
+107,Dodge,Dodge Dakota Club Cab,Pickup,20300,18670,16,22
+108,Dodge,Dodge Dakota Regular Cab,Pickup,17630,16264,16,22
+109,Dodge,Dodge Durango SLT,SUV,32235,29472,15,21
+110,Dodge,Dodge Grand Caravan SXT,Minivan,32660,29812,18,25
+111,Dodge,Dodge Intrepid ES 4dr,Small/Sporty/ Compact/Large Sedan,24885,23058,18,27
+112,Dodge,Dodge Intrepid SE 4dr,Small/Sporty/ Compact/Large Sedan,22035,20502,21,29
+113,Dodge,Dodge Neon SE 4dr,Small/Sporty/ Compact/Large Sedan,13670,12849,29,36
+114,Dodge,Dodge Neon SXT 4dr,Small/Sporty/ Compact/Large Sedan,15040,14086,29,36
+115,Dodge,Dodge Ram 1500 Regular Cab ST,Pickup,20215,18076,16,21
+116,Dodge,Dodge Stratus SE 4dr,Small/Sporty/ Compact/Large Sedan,20220,18821,21,28
+117,Dodge,Dodge Stratus SXT 4dr,Small/Sporty/ Compact/Large Sedan,18820,17512,21,28
+118,Dodge,Dodge Viper SRT-10 convertible 2dr,Sports Car,81795,74451,*,*
+119,Ford,Ford Crown Victoria 4dr,Small/Sporty/ Compact/Large Sedan,24345,22856,17,25
+120,Ford,Ford Crown Victoria LX 4dr,Small/Sporty/ Compact/Large Sedan,27370,25105,17,25
+121,Ford,Ford Crown Victoria LX Sport 4dr,Small/Sporty/ Compact/Large Sedan,30315,27756,17,25
+122,Ford,Ford Escape XLS,SUV,22515,20907,18,23
+123,Ford,Ford Excursion 6.8 XLT,SUV,41475,36494,*,*
+124,Ford,Ford Expedition 4.6 XLT,SUV,34560,30468,15,19
+125,Ford,Ford Explorer XLT V6,SUV,29670,26983,15,20
+126,Ford,Ford F-150 Regular Cab XL,Pickup,22010,19490,15,19
+127,Ford,Ford F-150 Supercab Lariat,Pickup,33540,29405,14,18
+128,Ford,Ford Focus LX 4dr,Small/Sporty/ Compact/Large Sedan,13730,12906,27,36
+129,Ford,Ford Focus SE 4dr,Small/Sporty/ Compact/Large Sedan,15460,14496,26,33
+130,Ford,Ford Focus SVT 2dr,Small/Sporty/ Compact/Large Sedan,19135,17878,21,28
+131,Ford,Ford Focus ZTW,Wagon,17475,16375,26,33
+132,Ford,Ford Focus ZX3 2dr hatch,Small/Sporty/ Compact/Large Sedan,13270,12482,26,33
+133,Ford,Ford Focus ZX5 5dr,Small/Sporty/ Compact/Large Sedan,15580,14607,26,33
+134,Ford,Ford Freestar SE,Minivan,26930,24498,17,23
+135,Ford,Ford Mustang 2dr (convertible),Sports Car,18345,16943,20,29
+136,Ford,Ford Mustang GT Premium convertible 2dr,Sports Car,29380,26875,17,25
+137,Ford,Ford Ranger 2.3 XL Regular Cab,Pickup,14385,13717,24,29
+138,Ford,Ford Taurus LX 4dr,Small/Sporty/ Compact/Large Sedan,20320,18881,20,27
+139,Ford,Ford Taurus SE,Wagon,22290,20457,19,26
+140,Ford,Ford Taurus SES Duratec 4dr,Small/Sporty/ Compact/Large Sedan,22735,20857,19,26
+141,Ford,Ford Thunderbird Deluxe convert w/hardtop 2dr,Sports Car,37530,34483,17,24
+142,GMC,GMC Canyon Z85 SL Regular Cab,Pickup,16530,14877,19,24
+143,GMC,GMC Envoy XUV SLE,SUV,31890,28922,15,19
+144,GMC,GMC Safari SLE,Minivan,25640,23215,16,20
+145,GMC,GMC Sierra Extended Cab 1500,Pickup,25717,22604,17,20
+146,GMC,GMC Sierra HD 2500,Pickup,29322,25759,*,*
+147,GMC,GMC Sonoma Crew Cab,Pickup,25395,23043,15,19
+148,GMC,GMC Yukon XL 2500 SLT,SUV,46265,40534,13,17
+149,Honda,Honda Accord EX 2dr,Small/Sporty/ Compact/Large Sedan,22260,20080,26,34
+150,Honda,Honda Accord EX V6 2dr,Small/Sporty/ Compact/Large Sedan,26960,24304,21,30
+151,Honda,Honda Accord LX 2dr,Small/Sporty/ Compact/Large Sedan,19860,17924,26,34
+152,Honda,Honda Accord LX V6 4dr,Small/Sporty/ Compact/Large Sedan,23760,21428,21,30
+153,Honda,Honda Civic DX 2dr,Small/Sporty/ Compact/Large Sedan,13270,12175,32,38
+154,Honda,Honda Civic EX 4dr,Small/Sporty/ Compact/Large Sedan,17750,16265,32,37
+155,Honda,Honda Civic HX 2dr,Small/Sporty/ Compact/Large Sedan,14170,12996,36,44
+156,Honda,Honda Civic Hybrid 4dr manual (gas/electric),Small/Sporty/ Compact/Large Sedan,20140,18451,46,51
+157,Honda,Honda Civic LX 4dr,Small/Sporty/ Compact/Large Sedan,15850,14531,32,38
+158,Honda,Honda Civic Si 2dr hatch,Small/Sporty/ Compact/Large Sedan,19490,17849,26,30
+159,Honda,Honda CR-V LX,SUV,19860,18419,21,25
+160,Honda,Honda Element LX,SUV,18690,17334,21,24
+161,Honda,Honda Insight 2dr (gas/electric),Small/Sporty/ Compact/Large Sedan,19110,17911,60,66
+162,Honda,Honda Odyssey EX,Minivan,27450,24744,18,25
+163,Honda,Honda Odyssey LX,Minivan,24950,22498,18,25
+164,Honda,Honda Pilot LX,SUV,27560,24843,17,22
+165,Honda,Honda S2000 convertible 2dr,Sports Car,33260,29965,20,25
+166,Hummer,Hummer H2,SUV,49995,45815,10,12
+167,Hyundai,Hyundai Accent 2dr hatch,Small/Sporty/ Compact/Large Sedan,10539,10107,29,33
+168,Hyundai,Hyundai Accent GL 4dr,Small/Sporty/ Compact/Large Sedan,11839,11116,29,33
+169,Hyundai,Hyundai Accent GT 2dr hatch,Small/Sporty/ Compact/Large Sedan,11939,11209,29,33
+170,Hyundai,Hyundai Elantra GLS 4dr,Small/Sporty/ Compact/Large Sedan,13839,12781,26,34
+171,Hyundai,Hyundai Elantra GT 4dr,Small/Sporty/ Compact/Large Sedan,15389,14207,26,34
+172,Hyundai,Hyundai Elantra GT 4dr hatch,Small/Sporty/ Compact/Large Sedan,15389,14207,26,34
+173,Hyundai,Hyundai Santa Fe GLS,SUV,21589,20201,20,26
+174,Hyundai,Hyundai Sonata GLS 4dr,Small/Sporty/ Compact/Large Sedan,19339,17574,19,27
+175,Hyundai,Hyundai Sonata LX 4dr,Small/Sporty/ Compact/Large Sedan,20339,18380,19,27
+176,Hyundai,Hyundai Tiburon GT V6 2dr,Sports Car,18739,17101,19,26
+177,Hyundai,Hyundai XG350 4dr,Small/Sporty/ Compact/Large Sedan,24589,22055,17,26
+178,Hyundai,Hyundai XG350 L 4dr,Small/Sporty/ Compact/Large Sedan,26189,23486,17,26
+179,Infiniti,Infiniti FX35,Wagon,34895,31756,16,22
+180,Infiniti,Infiniti FX45,Wagon,36395,33121,15,19
+181,Infiniti,Infiniti G35 4dr,Small/Sporty/ Compact/Large Sedan,28495,26157,18,26
+182,Infiniti,Infiniti G35 4dr,Small/Sporty/ Compact/Large Sedan,32445,29783,18,26
+183,Infiniti,Infiniti G35 Sport Coupe 2dr,Small/Sporty/ Compact/Large Sedan,29795,27536,18,26
+184,Infiniti,Infiniti I35 4dr,Small/Sporty/ Compact/Large Sedan,31145,28320,19,26
+185,Infiniti,Infiniti M45 4dr,Small/Sporty/ Compact/Large Sedan,42845,38792,17,23
+186,Infiniti,Infiniti Q45 Luxury 4dr,Small/Sporty/ Compact/Large Sedan,52545,47575,17,23
+187,Isuzu,Isuzu Ascender S,SUV,31849,29977,15,20
+188,Isuzu,Isuzu Rodeo S,SUV,20449,19261,17,21
+189,Jaguar,Jaguar S-Type 3.0 4dr,Small/Sporty/ Compact/Large Sedan,43895,40004,18,26
+190,Jaguar,Jaguar S-Type 4.2 4dr,Small/Sporty/ Compact/Large Sedan,49995,45556,18,28
+191,Jaguar,Jaguar S-Type R 4dr,Small/Sporty/ Compact/Large Sedan,63120,57499,17,24
+192,Jaguar,Jaguar Vanden Plas 4dr,Small/Sporty/ Compact/Large Sedan,68995,62846,18,28
+193,Jaguar,Jaguar XJ8 4dr,Small/Sporty/ Compact/Large Sedan,59995,54656,18,28
+194,Jaguar,Jaguar XJR 4dr,Small/Sporty/ Compact/Large Sedan,74995,68306,17,24
+195,Jaguar,Jaguar XK8 convertible 2dr,Sports Car,74995,68306,18,26
+196,Jaguar,Jaguar XK8 coupe 2dr,Sports Car,69995,63756,18,26
+197,Jaguar,Jaguar XKR convertible 2dr,Sports Car,86995,79226,16,23
+198,Jaguar,Jaguar XKR coupe 2dr,Sports Car,81995,74676,16,23
+199,Jaguar,Jaguar X-Type 2.5 4dr,Small/Sporty/ Compact/Large Sedan,29995,27355,18,26
+200,Jaguar,Jaguar X-Type 3.0 4dr,Small/Sporty/ Compact/Large Sedan,33995,30995,18,25
+201,Jeep,Jeep Grand Cherokee Laredo,SUV,27905,25686,16,21
+202,Jeep,Jeep Liberty Sport,SUV,20130,18973,20,24
+203,Jeep,Jeep Wrangler Sahara convertible 2dr,SUV,25520,23275,16,19
+204,Kia,Kia Amanti 4dr,Small/Sporty/ Compact/Large Sedan,26000,23764,17,25
+205,Kia,Kia Optima LX 4dr,Small/Sporty/ Compact/Large Sedan,16040,14910,23,30
+206,Kia,Kia Optima LX V6 4dr,Small/Sporty/ Compact/Large Sedan,18435,16850,20,27
+207,Kia,Kia Rio 4dr auto,Small/Sporty/ Compact/Large Sedan,11155,10705,25,32
+208,Kia,Kia Rio 4dr manual,Small/Sporty/ Compact/Large Sedan,10280,9875,26,33
+209,Kia,Kia Rio Cinco,Wagon,11905,11410,26,33
+210,Kia,Kia Sedona LX,Minivan,20615,19400,16,22
+211,Kia,Kia Sorento LX,SUV,19635,18630,16,19
+212,Kia,Kia Spectra 4dr,Small/Sporty/ Compact/Large Sedan,12360,11630,24,32
+213,Kia,Kia Spectra GS 4dr hatch,Small/Sporty/ Compact/Large Sedan,13580,12830,24,32
+214,Kia,Kia Spectra GSX 4dr hatch,Small/Sporty/ Compact/Large Sedan,14630,13790,24,32
+215,Land,Land Rover Discovery SE,SUV,39250,35777,12,16
+216,Land,Land Rover Freelander SE,SUV,25995,23969,18,21
+217,Land,Land Rover Range Rover HSE,SUV,72250,65807,12,16
+218,Lexus,Lexus ES 330 4dr,Small/Sporty/ Compact/Large Sedan,32350,28755,20,29
+219,Lexus,Lexus GS 300 4dr,Small/Sporty/ Compact/Large Sedan,41010,36196,18,25
+220,Lexus,Lexus GS 430 4dr,Small/Sporty/ Compact/Large Sedan,48450,42232,18,23
+221,Lexus,Lexus GX 470,SUV,45700,39838,15,19
+222,Lexus,Lexus IS 300 4dr auto,Small/Sporty/ Compact/Large Sedan,32415,28611,18,24
+223,Lexus,Lexus IS 300 4dr manual,Small/Sporty/ Compact/Large Sedan,31045,27404,18,25
+224,Lexus,Lexus IS 300 SportCross,Wagon,32455,28647,18,24
+225,Lexus,Lexus LS 430 4dr,Small/Sporty/ Compact/Large Sedan,55750,48583,18,25
+226,Lexus,Lexus LX 470,SUV,64800,56455,13,17
+227,Lexus,Lexus RX 330,SUV,39195,34576,18,24
+228,Lexus,Lexus SC 430 convertible 2dr,Sports Car,63200,55063,18,23
+229,Lincoln,Lincoln Aviator Ultimate,SUV,42915,39443,13,18
+230,Lincoln,Lincoln LS V6 Luxury 4dr,Small/Sporty/ Compact/Large Sedan,32495,29969,20,26
+231,Lincoln,Lincoln LS V6 Premium 4dr,Small/Sporty/ Compact/Large Sedan,36895,33929,20,26
+232,Lincoln,Lincoln LS V8 Sport 4dr,Small/Sporty/ Compact/Large Sedan,40095,36809,17,24
+233,Lincoln,Lincoln LS V8 Ultimate 4dr,Small/Sporty/ Compact/Large Sedan,43495,39869,17,24
+234,Lincoln,Lincoln Navigator Luxury,SUV,52775,46360,13,18
+235,Lincoln,Lincoln Town Car Signature 4dr,Small/Sporty/ Compact/Large Sedan,41815,38418,17,25
+236,Lincoln,Lincoln Town Car Ultimate 4dr,Small/Sporty/ Compact/Large Sedan,44925,41217,17,25
+237,Lincoln,Lincoln Town Car Ultimate L 4dr,Small/Sporty/ Compact/Large Sedan,50470,46208,17,25
+238,Mazda,Mazda B2300 SX Regular Cab,Pickup,14840,14070,24,29
+239,Mazda,Mazda B4000 SE Cab Plus,Pickup,22350,20482,15,19
+240,Mazda,Mazda MPV ES,Minivan,28750,26600,18,25
+241,Mazda,Mazda MX-5 Miata convertible 2dr,Sports Car,22388,20701,23,28
+242,Mazda,Mazda MX-5 Miata LS convertible 2dr,Sports Car,25193,23285,23,28
+243,Mazda,Mazda RX-8 4dr automatic,Sports Car,25700,23794,18,25
+244,Mazda,Mazda RX-8 4dr manual,Sports Car,27200,25179,18,24
+245,Mazda,Mazda Tribute DX 2.0,SUV,21087,19742,22,25
+246,Mazda3,Mazda3 i 4dr,Small/Sporty/ Compact/Large Sedan,15500,14525,*,*
+247,Mazda3,Mazda3 s 4dr,Small/Sporty/ Compact/Large Sedan,17200,15922,*,*
+248,Mazda6,Mazda6 i 4dr,Small/Sporty/ Compact/Large Sedan,19270,17817,24,32
+249,Mercedes-Benz,Mercedes-Benz C230 Sport 2dr,Small/Sporty/ Compact/Large Sedan,26060,24249,22,30
+250,Mercedes-Benz,Mercedes-Benz C240,Wagon,33780,31466,19,25
+251,Mercedes-Benz,Mercedes-Benz C240 4dr,Small/Sporty/ Compact/Large Sedan,32280,30071,20,25
+252,Mercedes-Benz,Mercedes-Benz C240 4dr,Small/Sporty/ Compact/Large Sedan,33480,31187,19,25
+253,Mercedes-Benz,Mercedes-Benz C32 AMG 4dr,Small/Sporty/ Compact/Large Sedan,52120,48522,16,21
+254,Mercedes-Benz,Mercedes-Benz C320 4dr,Small/Sporty/ Compact/Large Sedan,37630,35046,20,26
+255,Mercedes-Benz,Mercedes-Benz C320 4dr,Small/Sporty/ Compact/Large Sedan,38830,36162,19,27
+256,Mercedes-Benz,Mercedes-Benz C320 Sport 2dr,Small/Sporty/ Compact/Large Sedan,28370,26435,19,26
+257,Mercedes-Benz,Mercedes-Benz C320 Sport 4dr,Small/Sporty/ Compact/Large Sedan,35920,33456,19,26
+258,Mercedes-Benz,Mercedes-Benz CL500 2dr,Small/Sporty/ Compact/Large Sedan,94820,88324,16,24
+259,Mercedes-Benz,Mercedes-Benz CL600 2dr,Small/Sporty/ Compact/Large Sedan,128420,119600,13,19
+260,Mercedes-Benz,Mercedes-Benz CLK320 coupe 2dr (convertible),Small/Sporty/ Compact/Large Sedan,45707,41966,20,26
+261,Mercedes-Benz,Mercedes-Benz CLK500 coupe 2dr (convertible),Small/Sporty/ Compact/Large Sedan,52800,49104,17,22
+262,Mercedes-Benz,Mercedes-Benz E320,Wagon,50670,47174,19,27
+263,Mercedes-Benz,Mercedes-Benz E320 4dr,Small/Sporty/ Compact/Large Sedan,48170,44849,19,27
+264,Mercedes-Benz,Mercedes-Benz E500,Wagon,60670,56474,16,24
+265,Mercedes-Benz,Mercedes-Benz E500 4dr,Small/Sporty/ Compact/Large Sedan,57270,53382,16,20
+266,Mercedes-Benz,Mercedes-Benz G500,SUV,76870,71540,13,14
+267,Mercedes-Benz,Mercedes-Benz ML500,SUV,46470,43268,14,17
+268,Mercedes-Benz,Mercedes-Benz S430 4dr,Small/Sporty/ Compact/Large Sedan,74320,69168,18,26
+269,Mercedes-Benz,Mercedes-Benz S500 4dr,Small/Sporty/ Compact/Large Sedan,86970,80939,16,24
+270,Mercedes-Benz,Mercedes-Benz SL500 convertible 2dr,Sports Car,90520,84325,16,23
+271,Mercedes-Benz,Mercedes-Benz SL55 AMG 2dr,Sports Car,121770,113388,14,21
+272,Mercedes-Benz,Mercedes-Benz SL600 convertible 2dr,Sports Car,126670,117854,13,19
+273,Mercedes-Benz,Mercedes-Benz SLK230 convertible 2dr,Sports Car,40320,37548,21,29
+274,Mercedes-Benz,Mercedes-Benz SLK32 AMG 2dr,Sports Car,56170,52289,17,22
+275,Mercury,Mercury Grand Marquis GS 4dr,Small/Sporty/ Compact/Large Sedan,24695,23217,17,25
+276,Mercury,Mercury Grand Marquis LS Premium 4dr,Small/Sporty/ Compact/Large Sedan,29595,27148,17,25
+277,Mercury,Mercury Grand Marquis LS Ultimate 4dr,Small/Sporty/ Compact/Large Sedan,30895,28318,17,25
+278,Mercury,Mercury Marauder 4dr,Small/Sporty/ Compact/Large Sedan,34495,31558,17,23
+279,Mercury,Mercury Monterey Luxury,Minivan,33995,30846,16,23
+280,Mercury,Mercury Mountaineer,SUV,29995,27317,16,21
+281,Mercury,Mercury Sable GS,Wagon,22595,20748,19,26
+282,Mercury,Mercury Sable GS 4dr,Small/Sporty/ Compact/Large Sedan,21595,19848,20,27
+283,Mercury,Mercury Sable LS Premium 4dr,Small/Sporty/ Compact/Large Sedan,23895,21918,19,26
+284,Mini,Mini Cooper,Small/Sporty/ Compact/Large Sedan,16999,15437,28,37
+285,Mini,Mini Cooper S,Small/Sporty/ Compact/Large Sedan,19999,18137,25,34
+286,Mitsubishi,Mitsubishi Diamante LS 4dr,Small/Sporty/ Compact/Large Sedan,29282,27250,18,25
+287,Mitsubishi,Mitsubishi Eclipse GTS 2dr,Sports Car,25092,23456,21,28
+288,Mitsubishi,Mitsubishi Eclipse Spyder GT convertible 2dr,Sports Car,26992,25218,21,28
+289,Mitsubishi,Mitsubishi Endeavor XLS,SUV,30492,28330,17,21
+290,Mitsubishi,Mitsubishi Galant ES 2.4L 4dr,Small/Sporty/ Compact/Large Sedan,19312,17957,*,*
+291,Mitsubishi,Mitsubishi Galant GTS 4dr,Small/Sporty/ Compact/Large Sedan,25700,23883,18,26
+292,Mitsubishi,Mitsubishi Lancer ES 4dr,Small/Sporty/ Compact/Large Sedan,14622,13751,*,*
+293,Mitsubishi,Mitsubishi Lancer Evolution 4dr,Sports Car,29562,27466,18,26
+294,Mitsubishi,Mitsubishi Lancer LS 4dr,Small/Sporty/ Compact/Large Sedan,16722,15718,*,*
+295,Mitsubishi,Mitsubishi Lancer OZ Rally 4dr auto,Small/Sporty/ Compact/Large Sedan,17232,16196,*,*
+296,Mitsubishi,Mitsubishi Lancer Sportback LS,Wagon,17495,16295,*,*
+297,Mitsubishi,Mitsubishi Montero XLS,SUV,33112,30763,15,19
+298,Mitsubishi,Mitsubishi Outlander LS,SUV,18892,17569,21,27
+299,Nissan,Nissan 350Z coupe 2dr,Sports Car,26910,25203,20,26
+300,Nissan,Nissan 350Z Enthusiast convertible 2dr,Sports Car,34390,31845,20,26
+301,Nissan,Nissan Altima S 4dr,Small/Sporty/ Compact/Large Sedan,19240,18030,21,26
+302,Nissan,Nissan Altima SE 4dr,Small/Sporty/ Compact/Large Sedan,23290,21580,21,26
+303,Nissan,Nissan Frontier King Cab XE V6,Pickup,19479,18253,17,20
+304,Nissan,Nissan Maxima SE 4dr,Small/Sporty/ Compact/Large Sedan,27490,25182,20,28
+305,Nissan,Nissan Maxima SL 4dr,Small/Sporty/ Compact/Large Sedan,29440,26966,20,28
+306,Nissan,Nissan Murano SL,Wagon,28739,27300,20,25
+307,Nissan,Nissan Pathfinder Armada SE,SUV,33840,30815,13,19
+308,Nissan,Nissan Pathfinder SE,SUV,27339,25972,16,21
+309,Nissan,Nissan Quest S,Minivan,24780,22958,19,26
+310,Nissan,Nissan Quest SE,Minivan,32780,30019,18,25
+311,Nissan,Nissan Sentra 1.8 4dr,Small/Sporty/ Compact/Large Sedan,12740,12205,28,35
+312,Nissan,Nissan Sentra 1.8 S 4dr,Small/Sporty/ Compact/Large Sedan,14740,13747,28,35
+313,Nissan,Nissan Sentra SE-R 4dr,Small/Sporty/ Compact/Large Sedan,17640,16444,23,28
+314,Nissan,Nissan Titan King Cab XE,Pickup,26650,24926,14,18
+315,Nissan,Nissan Xterra XE V6,SUV,20939,19512,17,20
+316,Oldsmobile,Oldsmobile Alero GLS 2dr,Small/Sporty/ Compact/Large Sedan,23675,21485,20,29
+317,Oldsmobile,Oldsmobile Alero GX 2dr,Small/Sporty/ Compact/Large Sedan,18825,17642,24,32
+318,Oldsmobile,Oldsmobile Silhouette GL,Minivan,28790,26120,19,26
+319,Pontiac,Pontiac Aztekt,SUV,21595,19810,19,26
+320,Pontiac,Pontiac Bonneville GXP 4dr,Small/Sporty/ Compact/Large Sedan,35995,32997,*,*
+321,Pontiac,Pontiac Grand Am GT 2dr,Small/Sporty/ Compact/Large Sedan,22450,20595,20,29
+322,Pontiac,Pontiac Grand Prix GT1 4dr,Small/Sporty/ Compact/Large Sedan,22395,20545,20,30
+323,Pontiac,Pontiac Grand Prix GT2 4dr,Small/Sporty/ Compact/Large Sedan,24295,22284,20,30
+324,Pontiac,Pontiac GTO 2dr,Sports Car,33500,30710,*,*
+325,Pontiac,Pontiac Montana,Minivan,23845,21644,19,26
+326,Pontiac,Pontiac Montana EWB,Minivan,31370,28454,18,24
+327,Pontiac,Pontiac Sunfire 1SA 2dr,Small/Sporty/ Compact/Large Sedan,15495,14375,24,33
+328,Pontiac,Pontiac Sunfire 1SC 2dr,Small/Sporty/ Compact/Large Sedan,17735,16369,24,33
+329,Pontiac,Pontiac Vibe,Wagon,17045,15973,29,36
+330,Porsche,Porsche 911 Carrera 4S coupe 2dr (convert),Sports Car,84165,72206,17,24
+331,Porsche,Porsche 911 Carrera convertible 2dr (coupe),Sports Car,79165,69229,18,26
+332,Porsche,Porsche 911 GT2 2dr,Sports Car,192465,173560,17,24
+333,Porsche,Porsche 911 Targa coupe 2dr,Sports Car,76765,67128,18,26
+334,Porsche,Porsche Boxster convertible 2dr,Sports Car,43365,37886,20,29
+335,Porsche,Porsche Boxster S convertible 2dr,Sports Car,52365,45766,18,26
+336,Porsche,Porsche Cayenne S,SUV,56665,49865,14,18
+337,Saab,Saab 9-3 Aero 4dr,Small/Sporty/ Compact/Large Sedan,33360,31562,20,28
+338,Saab,Saab 9-3 Aero convertible 2dr,Small/Sporty/ Compact/Large Sedan,43175,40883,21,30
+339,Saab,Saab 9-3 Arc convertible 2dr,Small/Sporty/ Compact/Large Sedan,40670,38520,21,29
+340,Saab,Saab 9-3 Arc Sport 4dr,Small/Sporty/ Compact/Large Sedan,30860,29269,20,28
+341,Saab,Saab 9-5 Aero,Wagon,40845,38376,19,29
+342,Saab,Saab 9-5 Aero 4dr,Small/Sporty/ Compact/Large Sedan,39465,37721,21,29
+343,Saab,Saab 9-5 Arc 4dr,Small/Sporty/ Compact/Large Sedan,35105,33011,21,29
+344,Saturn,Saturn Ion1 4dr,Small/Sporty/ Compact/Large Sedan,10995,10319,26,35
+345,Saturn,Saturn L300 2,Wagon,23560,21779,24,34
+346,Saturn,Saturn L300-2 4dr,Small/Sporty/ Compact/Large Sedan,21410,19801,20,28
+347,Saturn,Saturn lon2 4dr,Small/Sporty/ Compact/Large Sedan,14300,13393,26,35
+348,Saturn,Saturn lon2 quad coupe 2dr,Small/Sporty/ Compact/Large Sedan,14850,13904,26,35
+349,Saturn,Saturn lon3 4dr,Small/Sporty/ Compact/Large Sedan,15825,14811,26,35
+350,Saturn,Saturn lon3 quad coupe 2dr,Small/Sporty/ Compact/Large Sedan,16350,15299,26,35
+351,Saturn,Saturn VUE,SUV,20585,19238,21,26
+352,Scion,Scion xA 4dr hatch,Small/Sporty/ Compact/Large Sedan,12965,12340,32,38
+353,Scion,Scion xB,Wagon,14165,13480,31,35
+354,Subaru,Subaru Baja,Pickup,24520,22304,21,28
+355,Subaru,Subaru Forester X,Wagon,21445,19646,21,28
+356,Subaru,Subaru Impreza 2.5 RS 4dr,Small/Sporty/ Compact/Large Sedan,19945,18399,22,28
+357,Subaru,Subaru Impreza WRX 4dr,Sports Car,25045,23022,20,27
+358,Subaru,Subaru Impreza WRX STi 4dr,Sports Car,31545,29130,18,24
+359,Subaru,Subaru Legacy GT 4dr,Small/Sporty/ Compact/Large Sedan,25645,23336,21,28
+360,Subaru,Subaru Legacy L 4dr,Small/Sporty/ Compact/Large Sedan,20445,18713,21,28
+361,Subaru,Subaru Outback,Wagon,23895,21773,21,28
+362,Subaru,Subaru Outback H6 4dr,Small/Sporty/ Compact/Large Sedan,29345,26660,19,26
+363,Subaru,Subaru Outback H-6 VDC 4dr,Small/Sporty/ Compact/Large Sedan,31545,28603,19,26
+364,Subaru,Subaru Outback Limited Sedan 4dr,Small/Sporty/ Compact/Large Sedan,27145,24687,20,27
+365,Suzuki,Suzuki Aeno S 4dr,Small/Sporty/ Compact/Large Sedan,12884,12719,25,31
+366,Suzuki,Suzuki Aerio LX 4dr,Small/Sporty/ Compact/Large Sedan,14500,14317,25,31
+367,Suzuki,Suzuki Aerio SX,Wagon,16497,16291,24,29
+368,Suzuki,Suzuki Forenza EX 4dr,Small/Sporty/ Compact/Large Sedan,15568,15378,22,30
+369,Suzuki,Suzuki Forenza S 4dr,Small/Sporty/ Compact/Large Sedan,12269,12116,24,31
+370,Suzuki,Suzuki Verona LX 4dr,Small/Sporty/ Compact/Large Sedan,17262,17053,20,27
+371,Suzuki,Suzuki Vitara LX,SUV,17163,16949,19,22
+372,Suzuki,Suzuki XL-7 EX,SUV,23699,22307,18,22
+373,Toyota,Toyota 4Runner SR5 V6,SUV,27710,24801,18,21
+374,Toyota,Toyota Avalon XL 4dr,Small/Sporty/ Compact/Large Sedan,26560,23693,21,29
+375,Toyota,Toyota Avalon XLS 4dr,Small/Sporty/ Compact/Large Sedan,30920,27271,21,29
+376,Toyota,Toyota Camry LE 4dr,Small/Sporty/ Compact/Large Sedan,19560,17558,24,33
+377,Toyota,Toyota Camry LE V6 4dr,Small/Sporty/ Compact/Large Sedan,22775,20325,21,29
+378,Toyota,Toyota Camry Solara SE 2dr,Small/Sporty/ Compact/Large Sedan,19635,17722,24,33
+379,Toyota,Toyota Camry Solara SE V6 2dr,Small/Sporty/ Compact/Large Sedan,21965,19819,20,29
+380,Toyota,Toyota Camry Solara SLE V6 2dr,Small/Sporty/ Compact/Large Sedan,26510,23908,20,29
+381,Toyota,Toyota Camry XLE V6 4dr,Small/Sporty/ Compact/Large Sedan,25920,23125,21,29
+382,Toyota,Toyota Celica GT-S 2dr,Sports Car,22570,20363,24,33
+383,Toyota,Toyota Corolla CE 4dr,Small/Sporty/ Compact/Large Sedan,14085,13065,32,40
+384,Toyota,Toyota Corolla LE 4dr,Small/Sporty/ Compact/Large Sedan,15295,13889,32,40
+385,Toyota,Toyota Corolla S 4dr,Small/Sporty/ Compact/Large Sedan,15030,13650,32,40
+386,Toyota,Toyota Echo 2dr auto,Small/Sporty/ Compact/Large Sedan,11560,10896,33,39
+387,Toyota,Toyota Echo 2dr manual,Small/Sporty/ Compact/Large Sedan,10760,10144,35,43
+388,Toyota,Toyota Echo 4dr,Small/Sporty/ Compact/Large Sedan,11290,10642,35,43
+389,Toyota,Toyota Highlander V6,SUV,27930,24915,18,24
+390,Toyota,Toyota Land Cruiser,SUV,54765,47986,13,17
+391,Toyota,Toyota Matrix XR,Wagon,16695,15156,29,36
+392,Toyota,Toyota MR2 Spyder convertible 2dr,Sports Car,25130,22787,26,32
+393,Toyota,Toyota Prius 4dr (gas/electric),Small/Sporty/ Compact/Large Sedan,20510,18926,59,51
+394,Toyota,Toyota RAV4,SUV,20290,18553,22,27
+395,Toyota,Toyota Sequoia SR5,SUV,35695,31827,14,17
+396,Toyota,Toyota Sienna CE,Minivan,23495,21198,19,27
+397,Toyota,Toyota Sienna XLE Limited,Minivan,28800,25690,19,27
+398,Toyota,Toyota Tacoma,Pickup,12800,11879,22,27
+399,Toyota,Toyota Tundra Access Cab V6 SR5,Pickup,25935,23520,14,17
+400,Toyota,Toyota Tundra Regular Cab V6,Pickup,16495,14978,16,20
+401,Volkswagen,Volkswagen Golf GLS 4dr,Small/Sporty/ Compact/Large Sedan,18715,17478,24,31
+402,Volkswagen,Volkswagen GTI 1.8T 2dr hatch,Small/Sporty/ Compact/Large Sedan,19825,18109,24,31
+403,Volkswagen,Volkswagen Jetta GL,Wagon,19005,17427,24,30
+404,Volkswagen,Volkswagen Jetta GLI VR6 4dr,Small/Sporty/ Compact/Large Sedan,23785,21686,21,30
+405,Volkswagen,Volkswagen Jetta GLS TDI 4dr,Small/Sporty/ Compact/Large Sedan,21055,19638,38,46
+406,Volkswagen,Volkswagen New Beetle GLS 1.8T 2dr,Small/Sporty/ Compact/Large Sedan,21055,19638,24,31
+407,Volkswagen,Volkswagen New Beetle GLS convertible 2dr,Small/Sporty/ Compact/Large Sedan,23215,21689,24,30
+408,Volkswagen,Volkswagen Passat GLS 1.8T,Wagon,24955,22801,22,31
+409,Volkswagen,Volkswagen Passat GLS 4dr,Small/Sporty/ Compact/Large Sedan,23955,21898,22,31
+410,Volkswagen,Volkswagen Passat GLX V6 4MOTION 4dr,Small/Sporty/ Compact/Large Sedan,33180,30583,19,26
+411,Volkswagen,Volkswagen Passat W8,Wagon,40235,36956,18,25
+412,Volkswagen,Volkswagen Passat W8 4MOTION 4dr,Small/Sporty/ Compact/Large Sedan,39235,36052,18,25
+413,Volkswagen,Volkswagen Phaeton 4dr,Small/Sporty/ Compact/Large Sedan,65000,59912,*,*
+414,Volkswagen,Volkswagen Phaeton W12 4dr,Small/Sporty/ Compact/Large Sedan,75000,69130,*,*
+415,Volkswagen,Volkswagen Touareg V6,SUV,35515,32243,15,20
+416,Volvo,Volvo C70 HPT convertible 2dr,Small/Sporty/ Compact/Large Sedan,42565,40083,20,26
+417,Volvo,Volvo C70 LPT convertible 2dr,Small/Sporty/ Compact/Large Sedan,40565,38203,21,28
+418,Volvo,Volvo S40 4dr,Small/Sporty/ Compact/Large Sedan,25135,23701,22,29
+419,Volvo,Volvo S60 2.5 4dr,Small/Sporty/ Compact/Large Sedan,31745,29916,20,27
+420,Volvo,Volvo S60 R 4dr,Small/Sporty/ Compact/Large Sedan,37560,35382,18,25
+421,Volvo,Volvo S60 T5 4dr,Small/Sporty/ Compact/Large Sedan,34845,32902,20,28
+422,Volvo,Volvo S80 2.5T 4dr,Small/Sporty/ Compact/Large Sedan,37885,35688,20,27
+423,Volvo,Volvo S80 2.9 4dr,Small/Sporty/ Compact/Large Sedan,37730,35542,20,28
+424,Volvo,Volvo S80 T6 4dr,Small/Sporty/ Compact/Large Sedan,45210,42573,19,26
+425,Volvo,Volvo V40,Wagon,26135,24641,22,29
+426,Volvo,Volvo XC70,Wagon,35145,33112,20,27
+427,Volvo,Volvo XC90 T6,SUV,41250,38851,15,20

@@ -1,0 +1,184 @@
+,name,type,retail_price,engine_size,hp,mpg_city,mpg_hwy,weight,wheel_base
+427,Volvo XC90 T6,SUV,41250,2.9,268,15,20,4638,113
+159,Honda CR-V LX,SUV,19860,2.4,160,21,25,3258,103
+160,Honda Element LX,SUV,18690,2.4,160,21,24,3468,101
+334,Porsche Boxster convertible 2dr,Sports Car,43365,2.7,228,20,29,2811,95
+162,Honda Odyssey EX,Minivan,27450,3.5,240,18,25,4365,118
+163,Honda Odyssey LX,Minivan,24950,3.5,240,18,25,4310,118
+164,Honda Pilot LX,SUV,27560,3.5,240,17,22,4387,106
+165,Honda S2000 convertible 2dr,Sports Car,33260,2.2,240,20,25,2835,95
+166,Hummer H2,SUV,49995,6.0,316,10,12,6400,123
+333,Porsche 911 Targa coupe 2dr,Sports Car,76765,3.6,315,18,26,3119,93
+332,Porsche 911 GT2 2dr,Sports Car,192465,3.6,477,17,24,3131,93
+331,Porsche 911 Carrera convertible 2dr (coupe),Sports Car,79165,3.6,315,18,26,3135,93
+335,Porsche Boxster S convertible 2dr,Sports Car,52365,3.2,258,18,26,2911,95
+330,Porsche 911 Carrera 4S coupe 2dr (convert),Sports Car,84165,3.6,315,17,24,3240,93
+173,Hyundai Santa Fe GLS,SUV,21589,2.7,173,20,26,3549,103
+326,Pontiac Montana EWB,Minivan,31370,3.4,185,18,24,4431,121
+176,Hyundai Tiburon GT V6 2dr,Sports Car,18739,2.7,172,19,26,3023,100
+325,Pontiac Montana,Minivan,23845,3.4,185,19,26,3803,112
+324,Pontiac GTO 2dr,Sports Car,33500,5.7,340,*,*,3725,110
+179,Infiniti FX35,Wagon,34895,3.5,280,16,22,4056,112
+180,Infiniti FX45,Wagon,36395,4.5,315,15,19,4309,112
+319,Pontiac Aztekt,SUV,21595,3.4,185,19,26,3779,108
+318,Oldsmobile Silhouette GL,Minivan,28790,3.4,185,19,26,3948,120
+187,Isuzu Ascender S,SUV,31849,4.2,275,15,20,4967,129
+188,Isuzu Rodeo S,SUV,20449,3.2,193,17,21,3836,106
+329,Pontiac Vibe,Wagon,17045,1.8,130,29,36,2701,102
+336,Porsche Cayenne S,SUV,56665,4.5,340,14,18,4950,112
+341,Saab 9-5 Aero,Wagon,40845,2.3,250,19,29,3620,106
+148,GMC Yukon XL 2500 SLT,SUV,46265,6.0,325,13,17,6133,130
+355,Subaru Forester X,Wagon,21445,2.5,165,21,28,3090,99
+118,Dodge Viper SRT-10 convertible 2dr,Sports Car,81795,8.3,500,*,*,3410,99
+354,Subaru Baja,Pickup,24520,2.5,165,21,28,3485,104
+353,Scion xB,Wagon,14165,1.5,108,31,35,2425,98
+122,Ford Escape XLS,SUV,22515,3.0,201,18,23,3346,103
+123,Ford Excursion 6.8 XLT,SUV,41475,6.8,310,*,*,7190,137
+124,Ford Expedition 4.6 XLT,SUV,34560,4.6,232,15,19,5000,119
+125,Ford Explorer XLT V6,SUV,29670,4.0,210,15,20,4463,114
+126,Ford F-150 Regular Cab XL,Pickup,22010,4.6,231,15,19,4788,126
+127,Ford F-150 Supercab Lariat,Pickup,33540,5.4,300,14,18,5464,133
+351,Saturn VUE,SUV,20585,2.2,143,21,26,3381,107
+131,Ford Focus ZTW,Wagon,17475,2.0,130,26,33,2702,103
+134,Ford Freestar SE,Minivan,26930,3.9,193,17,23,4275,121
+271,Mercedes-Benz SL55 AMG 2dr,Sports Car,121770,5.5,493,14,21,4235,101
+136,Ford Mustang GT Premium convertible 2dr,Sports Car,29380,4.6,260,17,25,3347,101
+137,Ford Ranger 2.3 XL Regular Cab,Pickup,14385,2.3,143,24,29,3028,111
+139,Ford Taurus SE,Wagon,22290,3.0,155,19,26,3497,109
+345,Saturn L300 2,Wagon,23560,2.2,140,24,34,3109,107
+141,Ford Thunderbird Deluxe convert w/hardtop 2dr,Sports Car,37530,3.9,280,17,24,3780,107
+142,GMC Canyon Z85 SL Regular Cab,Pickup,16530,2.8,175,19,24,3351,111
+143,GMC Envoy XUV SLE,SUV,31890,4.2,275,15,19,4945,129
+144,GMC Safari SLE,Minivan,25640,4.3,190,16,20,4309,111
+145,GMC Sierra Extended Cab 1500,Pickup,25717,4.8,285,17,20,4548,144
+146,GMC Sierra HD 2500,Pickup,29322,6.0,300,*,*,5440,133
+147,GMC Sonoma Crew Cab,Pickup,25395,4.3,190,15,19,4083,123
+315,Nissan Xterra XE V6,SUV,20939,3.3,180,17,20,3760,104
+115,Dodge Ram 1500 Regular Cab ST,Pickup,20215,3.7,215,16,21,4542,121
+314,Nissan Titan King Cab XE,Pickup,26650,5.6,305,14,18,5287,140
+196,Jaguar XK8 coupe 2dr,Sports Car,69995,4.2,294,18,26,3779,102
+293,Mitsubishi Lancer Evolution 4dr,Sports Car,29562,2.0,271,18,26,3263,103
+234,Lincoln Navigator Luxury,SUV,52775,5.4,300,13,18,5969,119
+238,Mazda B2300 SX Regular Cab,Pickup,14840,2.3,143,24,29,2960,112
+239,Mazda B4000 SE Cab Plus,Pickup,22350,4.0,207,15,19,3571,126
+240,Mazda MPV ES,Minivan,28750,3.0,200,18,25,3812,112
+241,Mazda MX-5 Miata convertible 2dr,Sports Car,22388,1.8,142,23,28,2387,89
+242,Mazda MX-5 Miata LS convertible 2dr,Sports Car,25193,1.8,142,23,28,2387,89
+243,Mazda RX-8 4dr automatic,Sports Car,25700,1.3,197,18,25,3053,106
+244,Mazda RX-8 4dr manual,Sports Car,27200,1.3,238,18,24,3029,106
+245,Mazda Tribute DX 2.0,SUV,21087,2.0,130,22,25,3091,103
+289,Mitsubishi Endeavor XLS,SUV,30492,3.8,215,17,21,4134,109
+296,Mitsubishi Lancer Sportback LS,Wagon,17495,2.4,160,*,*,3020,102
+288,Mitsubishi Eclipse Spyder GT convertible 2dr,Sports Car,26992,3.0,210,21,28,3296,101
+250,Mercedes-Benz C240,Wagon,33780,2.6,168,19,25,3470,107
+281,Mercury Sable GS,Wagon,22595,3.0,155,19,26,3488,109
+280,Mercury Mountaineer,SUV,29995,4.0,210,16,21,4374,114
+279,Mercury Monterey Luxury,Minivan,33995,4.2,201,16,23,4340,121
+262,Mercedes-Benz E320,Wagon,50670,3.2,221,19,27,3966,112
+274,Mercedes-Benz SLK32 AMG 2dr,Sports Car,56170,3.2,349,17,22,3220,95
+264,Mercedes-Benz E500,Wagon,60670,5.0,302,16,24,4230,112
+273,Mercedes-Benz SLK230 convertible 2dr,Sports Car,40320,2.3,192,21,29,3055,95
+266,Mercedes-Benz G500,SUV,76870,5.0,292,13,14,5423,112
+267,Mercedes-Benz ML500,SUV,46470,5.0,288,14,17,4874,111
+272,Mercedes-Benz SL600 convertible 2dr,Sports Car,126670,5.5,493,13,19,4429,101
+287,Mitsubishi Eclipse GTS 2dr,Sports Car,25092,3.0,210,21,28,3241,101
+229,Lincoln Aviator Ultimate,SUV,42915,4.6,302,13,18,4834,114
+228,Lexus SC 430 convertible 2dr,Sports Car,63200,4.3,300,18,23,3840,103
+227,Lexus RX 330,SUV,39195,3.3,230,18,24,4065,107
+197,Jaguar XKR convertible 2dr,Sports Car,86995,4.2,390,16,23,4042,102
+198,Jaguar XKR coupe 2dr,Sports Car,81995,4.2,390,16,23,3865,102
+310,Nissan Quest SE,Minivan,32780,3.5,240,18,25,4175,124
+201,Jeep Grand Cherokee Laredo,SUV,27905,4.0,195,16,21,3790,106
+202,Jeep Liberty Sport,SUV,20130,2.4,150,20,24,3826,104
+203,Jeep Wrangler Sahara convertible 2dr,SUV,25520,4.0,190,16,19,3575,93
+309,Nissan Quest S,Minivan,24780,3.5,240,19,26,4012,124
+308,Nissan Pathfinder SE,SUV,27339,3.5,240,16,21,3871,106
+307,Nissan Pathfinder Armada SE,SUV,33840,5.6,305,13,19,5013,123
+306,Nissan Murano SL,Wagon,28739,3.5,245,20,25,3801,111
+209,Kia Rio Cinco,Wagon,11905,1.6,104,26,33,2447,95
+210,Kia Sedona LX,Minivan,20615,3.5,195,16,22,4802,115
+211,Kia Sorento LX,SUV,19635,3.5,192,16,19,4112,107
+426,Volvo XC70,Wagon,35145,2.5,208,20,27,3823,109
+303,Nissan Frontier King Cab XE V6,Pickup,19479,3.3,180,17,20,3932,116
+215,Land Rover Discovery SE,SUV,39250,4.6,217,12,16,4576,100
+216,Land Rover Freelander SE,SUV,25995,2.5,174,18,21,3577,101
+217,Land Rover Range Rover HSE,SUV,72250,4.4,282,12,16,5379,113
+300,Nissan 350Z Enthusiast convertible 2dr,Sports Car,34390,3.5,287,20,26,3428,104
+221,Lexus GX 470,SUV,45700,4.7,235,15,19,4740,110
+299,Nissan 350Z coupe 2dr,Sports Car,26910,3.5,287,20,26,3188,104
+298,Mitsubishi Outlander LS,SUV,18892,2.4,160,21,27,3240,103
+224,Lexus IS 300 SportCross,Wagon,32455,3.0,215,18,24,3410,105
+297,Mitsubishi Montero XLS,SUV,33112,3.8,215,15,19,4718,110
+226,Lexus LX 470,SUV,64800,4.7,235,13,17,5590,112
+195,Jaguar XK8 convertible 2dr,Sports Car,74995,4.2,294,18,26,3980,102
+357,Subaru Impreza WRX 4dr,Sports Car,25045,2.0,227,20,27,3085,99
+135,Ford Mustang 2dr (convertible),Sports Car,18345,3.8,193,20,29,3290,101
+270,Mercedes-Benz SL500 convertible 2dr,Sports Car,90520,5.0,302,16,23,4065,101
+408,Volkswagen Passat GLS 1.8T,Wagon,24955,1.8,170,22,31,3338,106
+61,Cadillac SRX V8,SUV,46995,4.6,320,16,21,4302,116
+25,Audi TT 3.2 coupe 2dr (convertible),Sports Car,40590,3.2,250,21,29,3351,96
+24,Audi TT 1.8 Quattro 2dr (convertible),Sports Car,37390,1.8,225,20,28,2921,96
+62,Cadillac XLR convertible 2dr,Sports Car,76200,4.6,320,17,25,3647,106
+63,Chevrolet Astro,Minivan,26395,4.3,190,14,17,4605,111
+64,Chevrolet Avalanche 1500,Pickup,36100,5.3,295,14,18,5678,130
+23,Audi TT 1.8 convertible 2dr (coupe),Sports Car,35940,1.8,180,20,28,3131,95
+59,Cadillac Escaladet,SUV,52795,5.3,295,14,18,5367,116
+382,Toyota Celica GT-S 2dr,Sports Car,22570,1.8,180,24,33,2500,102
+70,Chevrolet Colorado Z85,Pickup,18760,2.8,175,18,23,3623,111
+71,Chevrolet Corvette 2dr,Sports Car,44535,5.7,350,18,25,3246,105
+72,Chevrolet Corvette convertible 2dr,Sports Car,51535,5.7,350,18,25,3248,105
+20,Audi RS 6 4dr,Sports Car,84600,4.2,450,15,22,4024,109
+398,Toyota Tacoma,Pickup,12800,2.4,142,22,27,2750,103
+16,Audi A6 3.0 Avant Quattro,Wagon,40840,3.0,220,18,25,4035,109
+79,Chevrolet Malibu Maxx LS,Wagon,22225,3.5,200,22,30,3458,112
+373,Toyota 4Runner SR5 V6,SUV,27710,4.0,245,18,21,4035,110
+21,Audi S4 Avant Quattro,Wagon,49090,4.2,340,15,21,3936,104
+372,Suzuki XL-7 EX,SUV,23699,2.7,185,18,22,3682,110
+58,Cadillac Escalade EXT,Pickup,52975,6.0,345,13,17,5879,130
+30,BMW 325xi Sport,Wagon,32845,2.5,184,19,26,3594,107
+397,Toyota Sienna XLE Limited,Minivan,28800,3.3,230,19,27,4165,119
+396,Toyota Sienna CE,Minivan,23495,3.3,230,19,27,4120,119
+40,BMW M3 convertible 2dr,Sports Car,56595,3.2,333,16,23,3781,108
+41,BMW M3 coupe 2dr,Sports Car,48195,3.2,333,16,24,3415,108
+42,BMW X3 3.0i,SUV,37000,3.0,225,16,23,4023,110
+43,BMW X5 4.4i,SUV,52195,4.4,325,16,22,4824,111
+400,Toyota Tundra Regular Cab V6,Pickup,16495,3.4,190,16,20,3925,128
+44,BMW Z4 convertible 2.5i 2dr,Sports Car,33895,2.5,184,20,28,2932,98
+358,Subaru Impreza WRX STi 4dr,Sports Car,31545,2.5,300,18,24,3263,100
+45,BMW Z4 convertible 3.0i 2dr,Sports Car,41045,3.0,225,21,29,2998,98
+394,Toyota RAV4,SUV,20290,2.4,161,22,27,3119,98
+392,Toyota MR2 Spyder convertible 2dr,Sports Car,25130,1.8,138,26,32,2195,97
+391,Toyota Matrix XR,Wagon,16695,1.8,130,29,36,2679,102
+51,Buick Rainier,SUV,37895,4.2,275,15,21,4600,113
+390,Toyota Land Cruiser,SUV,54765,4.7,325,13,17,5390,112
+389,Toyota Highlander V6,SUV,27930,3.3,230,18,24,3935,107
+54,Buick Rendezvous CX,SUV,26545,3.4,185,19,26,4024,112
+403,Volkswagen Jetta GL,Wagon,19005,2.0,115,24,30,3034,99
+395,Toyota Sequoia SR5,SUV,35695,4.7,240,14,17,5270,118
+82,Chevrolet Silverado 1500 Regular Cab,Pickup,20310,4.3,200,15,21,4142,119
+411,Volkswagen Passat W8,Wagon,40235,4.0,270,18,25,4067,106
+96,Chrysler Pacifica,Wagon,31230,3.5,250,17,23,4675,116
+367,Suzuki Aerio SX,Wagon,16497,2.3,155,24,29,2932,98
+95,Chrysler Crossfire 2dr,Sports Car,34495,3.2,215,17,25,3060,95
+83,Chevrolet Silverado SS,Pickup,40340,6.0,300,13,17,4804,144
+361,Subaru Outback,Wagon,23895,2.5,165,21,28,3430,104
+103,Chrysler Town and Country Limited,Minivan,38380,3.8,215,18,25,4331,119
+104,Chrysler Town and Country LX,Minivan,27490,3.3,180,19,26,4068,119
+105,CMC Yukon 1500 SLE,SUV,35725,4.8,285,16,19,5042,116
+106,Dodge Caravan SE,Minivan,21795,2.4,150,20,26,3862,113
+3,Acura NSX coupe 2dr manual S,Sports Car,89765,3.2,290,17,24,3153,100
+107,Dodge Dakota Club Cab,Pickup,20300,3.7,210,16,22,3829,131
+108,Dodge Dakota Regular Cab,Pickup,17630,3.7,210,16,22,3714,112
+109,Dodge Durango SLT,SUV,32235,4.7,230,15,21,4987,119
+110,Dodge Grand Caravan SXT,Minivan,32660,3.8,215,18,25,4440,119
+2,Acura MDX,SUV,36945,3.5,265,17,23,4451,106
+425,Volvo V40,Wagon,26135,1.9,170,22,29,2822,101
+371,Suzuki Vitara LX,SUV,17163,2.5,165,19,22,3020,98
+89,Chevrolet Venture LS,Minivan,27020,3.4,185,19,26,3699,112
+399,Toyota Tundra Access Cab V6 SR5,Pickup,25935,3.4,190,14,17,4435,128
+88,Chevrolet TrailBlazer LT,SUV,30295,4.2,275,16,21,4425,113
+415,Volkswagen Touareg V6,SUV,35515,3.2,220,15,20,5086,112
+86,Chevrolet Tahoe LT,SUV,41465,5.3,295,14,18,5050,116
+84,Chevrolet SSR,Pickup,41995,5.3,300,16,19,4760,116
+85,Chevrolet Suburban 1500 LT,SUV,42735,5.3,295,14,18,4947,130
+87,Chevrolet Tracker,SUV,20255,2.5,165,19,22,2866,98
